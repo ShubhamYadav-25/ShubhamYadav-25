@@ -7,7 +7,7 @@
 
 <!-- Animated GIF -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f563632652f36316538366439302d633531372d343735392d613061372d6563643062643062316236332f5374617469632d436f6d706f736974696f6e2d31302d6865722e77656270" width="400" alt="Coding" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxokoaSYSUJ/giphy.gif" width="400" alt="Coding Developer" />
 </p>
 
 <p align="center">
@@ -75,6 +75,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
 </p>
 
+---
 
 ### 📈 Featured Projects
 
