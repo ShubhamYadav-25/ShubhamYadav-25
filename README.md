@@ -16,7 +16,7 @@
 
 ---
 
-### 🔭 I'm currently working on
+### 🔭 I had worked on projects such as
 - **Library Management System** - Full-stack web application with Node.js & React
 - **Contract Obligation Tracker** - TypeScript-based project management tool
 - **Healthcare Chatbot** - Interactive healthcare assistant using JavaScript
@@ -37,22 +37,19 @@
 **React, Node.js, Express, JavaScript, TypeScript, MongoDB, Web Development, API Development**
 
 ### 📫 How to reach me
-**Email:** your-email@example.com
+**Email:** shub252005@gmail.com
 
 ---
 
 ### Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/in/shubham-yadav-25" target="_blank">
+  <a href="https://www.linkedin.com/in/shubham-yadav-810787312" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/shubhamyadav25" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/shubhamyadav_25" target="_blank">
+  <a href="https://www.instagram.com/shubham_yadav4747" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:shub252005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
@@ -103,7 +100,6 @@
 | **Library Management System** | Full-stack web application for library management | React, Node.js, MongoDB, Express | [LibraryWebsite](https://github.com/ShubhamYadav-25/LibraryWebsite) |
 | **Contract Obligation Tracker** | Project management tool for tracking contracts | TypeScript, JavaScript | [Contract Tracker](https://github.com/ShubhamYadav-25/contract-obligation-tracker) |
 | **Healthcare Chatbot** | Interactive healthcare assistant | JavaScript, React | [Healthcare Chatbot](https://github.com/ShubhamYadav-25/healthcare_chatbot) |
-| **Web Library Management** | Online library platform | JavaScript, Node.js | [Web Library](https://github.com/ShubhamYadav-25/web_library_management) |
 
 ---
 
